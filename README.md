@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center"> 
@@ -27,7 +27,49 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👀 I’m a big tinkerer who loves learning how things work
+<div id="second-img" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+</div>
+
+<h2> About me </h2> <br>
+
+- 👀 I’m a tinkerer who loves learning how things work
 - 🌱 I’m currently learning: backend development using the Express.js, Feathers.js, and Sequalize ORM with OAuth authentication. I'm also learning Arduino C++ for interacting with simple sensors and HTTP calls using ESP3266 wifi module pcbs.
-- 💞️ I’m always interested in joining projects improve peoples' quality of life, whether through productivity or entertainment
-- 📫 How to reach me: davidmacotoward@gmail.com or through LinkedIn/AngelList
+- 💞️ I’m always interested in joining projects improve peoples' quality of life, whether through productivity or entertainment.
+- 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://angel.co/u/david-ward-49">
+  <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
+</a>
+
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+<h4> Proficcent </h4> <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+<h4> Moderate proficiency </h4> <br>
+<!-- <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="AngelList Badge"/> -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+<h4> Familiar </h4> <br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### :fire: My Stats :
+
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davesadev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davesadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
