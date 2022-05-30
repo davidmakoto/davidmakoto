@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmw01 but you can call me David or Makoto
 - 👀 I’m a big tinkerer who loves learning how things work
-- 🌱 I’m currently learning: backend development (.NET stack and Express.js), React, Angular, remote web hosting on Apache servers, and simple automation using raspberry pis and microcontrollers.
+- 🌱 I’m currently learning: backend development using the Express.js, Feathers.js, and Sequalize ORM. I'm also learning simple arduino C++ for dyi projects and automation.
 - 💞️ I’m always interested in joining projects that make people happy or make their life easier 
 - 📫 How to reach me: davidmacotoward@gmail.com
