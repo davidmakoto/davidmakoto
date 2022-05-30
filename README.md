@@ -48,13 +48,13 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <h3> Proficcent </h3> <br>
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
 </div>
 
 <h3> Moderate proficiency </h3> <br>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
@@ -63,15 +63,18 @@
 </div>
 
 <h3> Familiar </h3> <br>
-<div>  
+<div align="center">  
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
 </div>
 
 ### :fire: My Stats :
 
-  
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davesadev&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davesadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
