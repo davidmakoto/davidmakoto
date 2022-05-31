@@ -34,7 +34,7 @@
 <h2> About me </h2> <br>
 
 - 👀 I’m a tinkerer who loves learning how things work
-- 🌱 I’m currently learning: backend development using Express.js and Sequalize ORM via Feathers.js with OAuth authentication. I'm also learning Arduino C++ for interacting with simple sensors and HTTP calls using ESP3266 wifi module pcbs.
+- 🌱 I’m currently learning: backend development using Express.js and Sequalize ORM via Feathers.js with OAuth authorization. I'm also learning Arduino C++ for interacting with simple sensors and HTTP calls using ESP3266 wifi module pcbs.
 - 💞️ I’m always interested in joining projects improve peoples' quality of life, whether through productivity or entertainment.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
