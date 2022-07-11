@@ -18,7 +18,7 @@
 </div>
 
 <div id="profile-views-badge" align="center">
-    <img src="https://komarev.com/ghpvc/?username=davesadev&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=davidmakoto&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -72,9 +72,14 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davesadev&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davesadev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto
+
+
+
+
+&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
