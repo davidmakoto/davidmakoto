@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
 <!--   
-  <a href="https://davesadev.github.io">
+  <a href="https://davidmakoto.github.io">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
    -->
