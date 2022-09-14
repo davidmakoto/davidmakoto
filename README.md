@@ -72,14 +72,12 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&theme=buefy)](https://git.io/streak-stats)
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)](https://github.com/davidmakoto/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto
-
-
-
-
-&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
