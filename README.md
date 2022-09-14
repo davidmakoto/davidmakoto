@@ -72,7 +72,7 @@
 
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&theme=buefy)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&count_private=true&theme=buefy)](https://git.io/streak-stats)
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)
   
