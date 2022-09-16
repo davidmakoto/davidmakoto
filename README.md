@@ -77,7 +77,7 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)](https://github.com/davidmakoto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto&count_private=true&show_icons=true&hide=jupyter%20notebook,html,css,ejs&theme=buefy)](https://github.com/davidmakoto/github-readme-stats)
 
 
 </div>
