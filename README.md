@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center"> 
@@ -28,13 +28,13 @@
 </h1>
 
 <div id="second-img" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="450px"/>
 </div>
 
 <h2> About me </h2> <br>
 
 - 👀 I’m a tinkerer who loves learning how things work
-- 🌱 I’m currently learning: backend development using Express.js and Sequalize ORM via Feathers.js with authentication. I'm also learning Arduino C++ for interacting with simple sensors and HTTP calls using ESP3266 wifi module pcbs.
+- 🌱 I’m currently learning: 
 - 💞️ I’m always interested in joining projects improve peoples' quality of life, whether through productivity or entertainment.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
