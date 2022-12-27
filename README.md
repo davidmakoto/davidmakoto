@@ -34,7 +34,6 @@
 <h2> About me </h2> <br>
 
 - 👀 I’m a tinkerer who loves learning how things work
-- 🌱 I’m currently learning: 
 - 💞️ I’m always interested in joining projects improve peoples' quality of life, whether through productivity or entertainment.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -55,11 +54,11 @@
 
 <h3> Moderate proficiency </h3> <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails Badge"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown Badge"/>
 </div>
 
 <h3> Familiar </h3> <br>
