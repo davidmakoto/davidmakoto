@@ -33,7 +33,7 @@
 
 <h2> About me </h2> <br>
 
-- 👀 I am a curious nerd who loves learning how things work
+- 👀 I'm a curious person who loves learning how things work
 - 📚 Currently learning embedded IOT development via arduino C++ with wifi enabled microcontrollers using various sensors, docker, and React.js.
 - 💞️ I’m always interested in projects that make people happy or make their lives easier.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
