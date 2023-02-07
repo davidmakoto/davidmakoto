@@ -34,7 +34,7 @@
 <h2> About me </h2> <br>
 
 - 👀 I'm a curious person who loves learning how things work
-- 📚 Currently learning embedded IOT development via arduino C++ with wifi enabled microcontrollers using various sensors, docker, and React.js.
+- 📚 Currently learning how to use Sidekiq (background tasks) and AWS's S3 together for image hosting, embedded IOT development via arduino C++ with wifi enabled microcontrollers using various sensors, docker, React.js, and CSS flexbox.
 - 💞️ I’m always interested in projects that make people happy or make their lives easier.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
