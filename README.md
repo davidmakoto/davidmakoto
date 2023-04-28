@@ -33,8 +33,8 @@
 
 <h2> About me </h2> <br>
 
-- 👀 I'm a curious person who loves learning how things work.
-- 📚 Currently learning Docker, PhP (Laravel), Java Spring Boot, React hooks, and how to setup staging servers on Heroku.
+- 👀 I'm a curious person who loves learning how things work and trouble shooting complex systems.
+- 📚 Currently learning Dockerized postgres for development, Java Spring Boot, React hooks, and how to setup staging servers on Heroku.
 - 💞️ I’m always interested in projects that make people happy or make their lives easier.
 - 📫 How to reach me: davidmacotoward@gmail.com or through   <a href="https://www.linkedin.com/in/davidmacotoward/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -76,8 +76,6 @@
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX Badge"/>
   
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server badge"/>
-
-  <img src="https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt="Adafruit badge"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino badge"/>
 
 </div>
