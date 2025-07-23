@@ -69,15 +69,19 @@
 </div>
 
 ### :fire: My Stats :
-
 <div align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&count_private=true&theme=buefy)](https://git.io/streak-stats)
+  [![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davidmakoto&theme=minimal)](https://github.com/davidmakoto/github-readme-activity-graph)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidmakoto&count_private=true&show_icons=true&theme=buefy)
+  <img src="https://img.shields.io/github/commit-activity/y/davidmakoto/davidmakoto" alt="GitHub commit activity"/></br>
   
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=davidmakoto&count_private=true&theme=buefy" alt="GitHub Streak"/></br>
+  </a>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto&count_private=true&show_icons=true&hide=jupyter%20notebook,html,css,ejs&theme=buefy)](https://github.com/davidmakoto/github-readme-stats)
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=davidmakoto&count_private=true&show_icons=true&theme=buefy" alt="David's GitHub stats"/></br>
+    
+  <a href="https://github.com/davidmakoto/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmakoto&count_private=true&show_icons=true&hide=jupyter%20notebook,html,css,ejs&theme=buefy" alt="Top Languages"/></br>
+  </a>
 </div>
