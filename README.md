@@ -27,7 +27,7 @@
 - 👀 I like learning and tinkering.
 - 📚 Currently learning how to integrate simulations with Gazebo and Robot Operating System 2, navigational path planning systems, 3D printing fine tuning topics, and dark software factory patterns.
 - 💞️ I’m always interested in projects that make people happy or make their lives easier.
-- 📫 How to reach me: davidmacotoward@gmail.com davidmacotoward@gmail.com or through <a href="https://www.linkedin.com/in/davidmacotoward/">LinkedIn</a> or <a href="https://wellfound.com/u/david-ward-49">WellFound</a>
+- 📫 How to reach me: davidmacotoward@gmail.com, davidmacotoward@proton.me, david@forefrontlaboratories.com, or through <a href="https://www.linkedin.com/in/davidmacotoward/">LinkedIn</a> or <a href="https://wellfound.com/u/david-ward-49">WellFound</a>
 
 
 
